@@ -1,4 +1,3 @@
 # Python_Iseng
-Code Python iseng. have fun aja broo
-Code nya gw taro di branch
+Code Python iseng. have fun aja broo<br/>Code nya gw taro di branch
 
